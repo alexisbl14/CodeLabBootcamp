@@ -1,0 +1,9 @@
+.nav-row {
+    width: 100%;
+    display: flex; 
+    justify-content: space-between;
+}
+
+.nav-col {
+    padding: 0px; 
+}

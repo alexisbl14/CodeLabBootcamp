@@ -1,0 +1,8 @@
+.wishlist-product-row {
+    padding-bottom: 10px;
+}
+
+.wishlist-button-row {
+    display: flex;
+    justify-content: center;
+}
